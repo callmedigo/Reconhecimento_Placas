@@ -39,7 +39,7 @@ class Imagem:
     def _ImageCapture(self):
         try:
             print('rodou')
-            url = "https://www.twitch.tv/gaules"
+            url = "https://www.twitch.tv/callmedigo"
             streams = streamlink.streams(url)
             url = streams["best"].url
         # parâmetro passado se refere a qual webcam será capturada a imagem
