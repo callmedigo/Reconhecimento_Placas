@@ -4,3 +4,4 @@ pymysql
 pyserial
 streamlink
 tesseract-ocr
+python-dotenv
