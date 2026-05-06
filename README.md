@@ -1,6 +1,6 @@
-# Sistema de Reconhecimento Automático de Placas Veiculares (ALPR) na Nuvem
+# Sistema de Reconhecimento Automático de Placas Veiculares
 
-Este projeto implementa um sistema de reconhecimento automático de placas veiculares (Automatic License Plate Recognition - ALPR) desenvolvido para rodar na nuvem. Ele foi criado em conjunto com um projeto complementar que captura imagens de vídeo através de uma webcam local e integra-se com este sistema para controle de acesso automatizado.
+Este projeto foi realizado como atividade avaliativa no primeiro ano de BCC. Implementa um sistema de reconhecimento automático de placas veiculares desenvolvido para rodar na nuvem. Desenvolvido em conjunto com um projeto complementar que captura imagens de vídeo através de uma webcam local e integra-se com este sistema para controle de acesso automatizado.
 
 ## Funcionalidades
 
